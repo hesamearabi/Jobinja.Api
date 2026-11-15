@@ -1,0 +1,6 @@
+@Jobinja.Api_HostAddress = http://localhost:5172
+
+GET {{Jobinja.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
